@@ -29,8 +29,11 @@ This project implements an AI voice assistant capable of emulating a friendly in
 
 2. **Google Palm2 API Key:**
    Obtain an API key for Google Palm2 API and replace `"google palm2 api key"` with your actual API key in the code.
+   Use Your API Key with Caution:
+   Ensure that you use your API key responsibly and avoid sharing it publicly. API usage can have associated costs, and running out of API credits may disrupt the functionality of the voice assistan
+   *Note:You can get api key for free from makersuite without credit card*
 
-3. **Emotion Videos:**
+4. **Emotion Videos:**
    Ensure that emotion videos (e.g., `"happy.mp4"`, `"sad.mp4"`, `"angry.mp4"`, etc.) are available in the specified directory (`"./face for robot/"` in the code).
 
 ## Usage:
