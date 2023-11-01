@@ -5,6 +5,8 @@
 
 This project implements an AI voice assistant capable of emulating a friendly interaction with users, including various emotions. The assistant utilizes Google's Generative AI and integrates features such as web browsing and emotion recognition. Below are the key functionalities and instructions for using the voice assistant.
 
+### Can used in respberry-pi with a little manipulation
+
 ## Features:
 
 - **Natural Language Interaction:** Engages users in conversation, providing information from google palm2 *palm2 can make mistakes.
@@ -31,6 +33,7 @@ This project implements an AI voice assistant capable of emulating a friendly in
    Obtain an API key for Google Palm2 API and replace `"google palm2 api key"` with your actual API key in the code.
    Use Your API Key with Caution:
    Ensure that you use your API key responsibly and avoid sharing it publicly. API usage can have associated costs, and running out of API credits may disrupt the functionality of the voice assistan
+   
    *Note:You can get api key for free from makersuite without credit card*
 
 4. **Emotion Videos:**
