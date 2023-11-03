@@ -13,6 +13,7 @@ This project implements an AI voice assistant capable of emulating a friendly in
 - **Emotion Recognition:** Understands and responds with different emotions, enhancing the interaction experience.
 - **Web Browsing:** Opens web browsers and searches for topics specified by the user.
 - **Speech Recognition:** Listens for user commands and responds accordingly.
+- **Auto Speech listening turn-off:** Automatically turn off listening when user didn't speak upto 3 listening to reduce internet usage.
 
 ## Setup and Requirements:
 
