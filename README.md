@@ -62,4 +62,4 @@ Ensure emotion videos (e.g., `"happy.mp4"`, `"sad.mp4"`, `"angry.mp4"`, etc.) ar
 
 Enjoy the interactive experience with your AI Voice Assistant! Should you encounter any issues or have further inquiries, please do not hesitate to reach out. Your seamless interaction is our priority.
 
-source of files in "robot expression folder" : (https://www.youtube.com/watch?v=S79FH99aQWk)[https://www.youtube.com/watch?v=S79FH99aQWk]
+source of files in "robot expression folder" : [https://www.youtube.com/watch?v=S79FH99aQWk](https://www.youtube.com/watch?v=S79FH99aQWk)
